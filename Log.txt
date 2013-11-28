@@ -1,0 +1,6 @@
+Server started successfully... listening at port 8080
+Connection established to /127.0.0.1:60821 (1 open connections)
+Unsuccessful sign in from /127.0.0.1:60821
+Registered: JACK
+unregistered JACK
+Connection terminated with /127.0.0.1:60821(0 open connections)
